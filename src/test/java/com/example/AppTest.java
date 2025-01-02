@@ -9,6 +9,6 @@ public class AppTest {
     @Test
     public void testAdd() {
         App app = new App();
-        assertEquals(5, app.add(2, 3), "2 + 3 should equal 5");
+        assertEquals(5, app.add(2, 3), "2 + 3 should equal 5 ");
     }
 }
